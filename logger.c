@@ -4,7 +4,7 @@
 #include <time.h>
 
 #define MAXSIZE 2048
-#define MAXLINE 10
+#define MAXLINE 1000
 #define MAXFILE 15
 
 int readline(FILE* fp, char * buf){
