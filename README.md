@@ -1,2 +1,2 @@
 # logger
-log to file from input stream
+Logging input stream
